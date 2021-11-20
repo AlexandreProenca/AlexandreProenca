@@ -1,5 +1,5 @@
 ### Welcome dear friends
-Hello my name is Alexandre, you can call me Alex if you prefer : )
+Hello my name is Alexandre, you can call me Alex if you prefer : ) <br />
 I live in an Brazilian island, I like to do outdoor activities, biking, hiking and running, I am passionate about
 technology and the geek universe, my mission at work is always ship the best products on time with
 the best quality, sharing knowledge and learning from colleagues.
