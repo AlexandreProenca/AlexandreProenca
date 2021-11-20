@@ -16,8 +16,8 @@ the best quality, sharing knowledge and learning from colleagues.
 * My favourite NoSQL implementation is Redis. :zap:
 * I contribute Free and Open Source Software. :penguin:
 * I Believe on cryptocurrencies and Dfi :heavy_dollar_sign:	
-* I am Star Atlas Metaverso investor and enthusiast :rocket:
-* I am Solana holder and smart contracts developer ✨
+* I am a Star Atlas Metaverso investor and enthusiast :rocket:
+* I am a Solana holder and smart contracts developer ✨
 
 ![Hua's github stats](https://github-readme-stats.vercel.app/api?username=AlexandreProenca&show_icons=true&theme=highcontrast)
 
