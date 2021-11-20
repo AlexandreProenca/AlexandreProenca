@@ -1,13 +1,13 @@
 ### Welcome dear friends
 Hello my name is Alexandre, you can call me Alex if you prefer : ) <br />
-I live in an Brazilian island, I like to do outdoor activities, biking, hiking and running, I am passionate about
+I live in a Brazilian island, I like to do outdoor activities, biking, hiking and running, I am passionate about
 technology and the geek universe, my mission at work is always ship the best products on time with
 the best quality, sharing knowledge and learning from colleagues.
 
 
 ### Interests and Preferences
 * My favourite language is is Rust. :hearts:	
-* My usual scripting languages are Bash, Python. :clapper:
+* My usual scripting languages are Bash, JavaScript and Python. :clapper:
 * My personal computer runs Ubuntu (Alpine Linux for containers). :feather:
 * I deploy everything with Docker. :whale:
 * My favourite SQL implementation is PostgreSQL. :elephant:	
