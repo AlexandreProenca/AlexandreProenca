@@ -8,6 +8,8 @@ the best quality, sharing knowledge and learning from colleagues.
 ### Interests and Preferences
 * My favourite language is is Rust. :hearts:	
 * My usual scripting languages are Bash, JavaScript and Python. :clapper:
+* I am a Linux user since 1997. :nerd_face:
+* I love videogames :joystick:
 * My personal computer runs Ubuntu (Alpine Linux for containers). :feather:
 * I deploy everything with Docker. :whale:
 * My favourite SQL implementation is PostgreSQL. :elephant:	
