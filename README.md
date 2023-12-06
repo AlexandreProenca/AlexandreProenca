@@ -5,6 +5,9 @@ technology and the geek universe, my mission at work is always ship the best pro
 the best quality, sharing knowledge and learning from colleagues.
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexandreProenca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Interests and Preferences
 * My favourite language is is Python. :hearts:	
 * My eventual languages are ShellScript, Go and Rust. :clapper:
